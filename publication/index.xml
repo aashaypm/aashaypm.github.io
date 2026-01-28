@@ -2,29 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Aashay Mehta</title>
-    <link>https://aashay97.github.io/publication/</link>
-      <atom:link href="https://aashay97.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aashaypm.github.io/publication/</link>
+      <atom:link href="https://aashaypm.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aashay97.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aashaypm.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://aashay97.github.io/publication/</link>
+      <link>https://aashaypm.github.io/publication/</link>
     </image>
     
     <item>
+      <title>On the Query Complexity of Verifier-Assisted Language Generation</title>
+      <link>https://aashaypm.github.io/publication/language-sampling/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://aashaypm.github.io/publication/language-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promises and Pitfalls of Generative Masked Language Modeling: Theoretical Framework and Practical Guidelines</title>
+      <link>https://aashaypm.github.io/publication/masked-language-modeling/</link>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://aashaypm.github.io/publication/masked-language-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Cross-Segmentation for Improved Generalization in Reinforcement Learning Based Algorithmic Trading</title>
+      <link>https://aashaypm.github.io/publication/rl-trading/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://aashaypm.github.io/publication/rl-trading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Leveraging machine learning to automatically derive robust decision strategies from imperfect models of the real world</title>
-      <link>https://aashay97.github.io/publication/robust-decisions/</link>
-      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://aashay97.github.io/publication/robust-decisions/</guid>
+      <link>https://aashaypm.github.io/publication/robust-decisions/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://aashaypm.github.io/publication/robust-decisions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leveraging Machine Learning to Automatically Derive Robust Planning Strategies from Biased Models of the Environment</title>
-      <link>https://aashay97.github.io/publication/robust-planning/</link>
+      <link>https://aashaypm.github.io/publication/robust-planning/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://aashay97.github.io/publication/robust-planning/</guid>
+      <guid>https://aashaypm.github.io/publication/robust-planning/</guid>
       <description></description>
     </item>
     
